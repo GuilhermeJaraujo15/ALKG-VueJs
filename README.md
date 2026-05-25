@@ -3,3 +3,4 @@ e conta com áreas como Dashboard, para uma visão geral das atividades adiciona
 Clientes para um melhor relacionamentos dos dados dos envolvidos na ocupação e, Estatísticas, para uma compreensão de como está indo
 as atividades adicionadas.
 
+A implementação dele foi feita por mim no IDE, mas este trabalho foi feito por colegas de sala do Curso de Desenvolvimento de Sistemas no Senai.
