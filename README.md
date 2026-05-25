@@ -5,5 +5,5 @@ as atividades adicionadas.
 
 Link do Notion Explicativo: https://www.notion.so/3658303f026d808e8818fdbd7303f981
 
-A implementação dele foi feita por mim no IDE, mas este trabalho foi feito por colegas de sala do Curso de Desenvolvimento de Sistemas no Senai, como
-orientado pelo meu docente na dinâmica de aula imvertida.
+A implementação dele foi feita por mim no IDE, mas este trabalho foi feito por colegas de sala do
+Curso de Desenvolvimento de Sistemas no Senai, como orientado pelo docente ministrador do mesmo, na dinâmica de aula invertida.
